@@ -4,7 +4,7 @@ int main() {
     int i;
     printf("a\n");
     for(i = 0; i < 5 ; i++) {
-        printf("%d\n", i);
+        printf("world %d\n", i);
     }
     return 0;
 }
